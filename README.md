@@ -1,3 +1,3 @@
 # java
 java project
-hi this is java project in dev1 branch
+hi this is java code by master
